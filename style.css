@@ -869,7 +869,7 @@ h2 {
     .hero {
         flex-direction: column;
         text-align: center;
-        padding-top: 250px;
+        padding-top: 200px;
     }
 
     .hero-text {
@@ -895,13 +895,13 @@ h2 {
 
     /* ORBITS SMALLER */
     .orbit-1 {
-        width: 180px;
-        height: 180px;
+        width: 100px;
+        height: 100px;
     }
 
     .orbit-2 {
-        width: 2500px;
-        height: 250px;
+        width: 220px;
+        height: 220px;
     }
 
     .orbit-3 {
@@ -917,17 +917,17 @@ h2 {
     /* LOGO POSITION FIX */
     .orbit-2 .tech-logo {
         transform:
-            rotate(calc(360deg / 10 * var(--i))) translate(110px) rotate(calc(-360deg / 10 * var(--i)));
+            rotate(calc(360deg / 14 * var(--i))) translate(110px) rotate(calc(-360deg / 14 * var(--i)));
     }
 
     .orbit-3 .tech-logo {
         transform:
-            rotate(calc(360deg / 10 * var(--i))) translate(150px) rotate(calc(-360deg / 10 * var(--i)));
+            rotate(calc(360deg / 14 * var(--i))) translate(150px) rotate(calc(-360deg / 14 * var(--i)));
     }
 
     .orbit-4 .tech-logo {
         transform:
-            rotate(calc(360deg / 10 * var(--i))) translate(190px) rotate(calc(-360deg / 10 * var(--i)));
+            rotate(calc(360deg / 14 * var(--i))) translate(190px) rotate(calc(-360deg / 14 * var(--i)));
     }
 
     .tech-logo {
