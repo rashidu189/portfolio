@@ -854,7 +854,7 @@ h2 {
     }
 
     nav ul li {
-        flex: 1 0 20%;
+        flex: 1 0 0%;
         /* 2 items per row on mobile */
         margin-bottom: 10px;
     }
