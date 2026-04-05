@@ -878,11 +878,11 @@ h2 {
     }
 
     .hero-text h1 {
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
 
     .hero-text p {
-        font-size: 0.8rem;
+        font-size: 0.5rem;
     }
 
     /* IMAGE CONTAINER FIX */
@@ -895,23 +895,23 @@ h2 {
 
     /* ORBITS SMALLER */
     .orbit-1 {
-        width: 150px;
-        height: 150px;
+        width: 180px;
+        height: 180px;
     }
 
     .orbit-2 {
-        width: 220px;
-        height: 220px;
+        width: 2500px;
+        height: 250px;
     }
 
     .orbit-3 {
-        width: 300px;
-        height: 300px;
+        width: 320px;
+        height: 320px;
     }
 
     .orbit-4 {
-        width: 380px;
-        height: 380px;
+        width: 420px;
+        height: 420px;
     }
 
     /* LOGO POSITION FIX */
