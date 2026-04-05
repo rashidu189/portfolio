@@ -774,13 +774,16 @@ h2 {
     }
 
     nav ul {
-flex-direction: row; 
     display: flex;
+    flex-direction: row;   /* horizontal items */
+    flex-wrap: wrap;       /* allow multiple rows */
     list-style: none;
     background: rgba(255, 255, 255, 0.05);
     padding: 2px 6px;
     border-radius: 10px;
-    border: 1px solid #333;        
+    border: 1px solid #333;
+    gap: 10px;             /* spacing between items */
+    max-width: 600px;       
     }
 
     .resume-btn {
