@@ -869,7 +869,7 @@ h2 {
     .hero {
         flex-direction: column;
         text-align: center;
-        padding-top: 100px;
+        padding-top: 50px;
     }
 
     .hero-text {
@@ -878,11 +878,11 @@ h2 {
     }
 
     .hero-text h1 {
-        font-size: 1.5rem;
+        font-size: 1.8rem;
     }
 
     .hero-text p {
-        font-size: 0.5rem;
+        font-size: 0.8rem;
     }
 
     /* IMAGE CONTAINER FIX */
